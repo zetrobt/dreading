@@ -3,7 +3,6 @@ Decorator-like Threads for Python
 
 ## Installing
 You can install it using the command below:
-You can install it using the command below:
 ```shell
 pip install git+https://github.com/zetrobt/dreading.git
 ```
